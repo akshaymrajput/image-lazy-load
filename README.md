@@ -1,6 +1,6 @@
 # Image Lazy Load
 
-`image-lazy-load` is a lightweight JavaScript library for lazy loading images and background images in web applications.
+`simple-image-lazy-load` is a lightweight JavaScript library for lazy loading images and background images in web applications.
 
 ## Installation
 
