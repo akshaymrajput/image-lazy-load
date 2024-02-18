@@ -55,7 +55,3 @@ document.addEventListener("DOMContentLoaded", function () {
 ## Example
 
 - You can find an example usage of the simple-image-lazy-load package in the <a href="https://jsfiddle.net/h5pksrqb/">JS Fiddle</a>.
-
-## Dependencies
-
-- The image-lazy-load package doesn't have any external dependencies.
