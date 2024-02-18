@@ -1,5 +1,5 @@
 {
-  "name": "image-lazy-load",
+  "name": "simple-image-lazy-load",
   "version": "1.0.0",
   "description": "A lightweight JavaScript library for lazy loading images and background images.",
   "main": "dist/lazyLoadImages.bundle.js",
