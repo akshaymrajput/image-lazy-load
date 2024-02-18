@@ -4,7 +4,7 @@
 
 ## Installation
 
-You can install the package via npm:
+- You can install the package via npm:
 
 ```bash
 npm install image-lazy-load
@@ -18,7 +18,7 @@ npm install image-lazy-load
 const lazyLoadImages = require("image-lazy-load");
 ```
 
-1. Call the function: Use the `js lazyLoadImages ` function to lazy load images in your web application. You can provide optional configuration options to customize the lazy loading behavior.
+1. Call the function: Use the `lazyLoadImages` function to lazy load images in your web application. You can provide optional configuration options to customize the lazy loading behavior.
 
 ```js
 document.addEventListener("DOMContentLoaded", function () {
@@ -51,6 +51,10 @@ document.addEventListener("DOMContentLoaded", function () {
   alt="Lazy-loaded image"
 />
 ```
+
+## Example
+
+- You can find an example usage of the image-lazy-load package in the <a href="https://jsfiddle.net/h5pksrqb/">JS Fiddle</a>.
 
 ## Dependencies
 
