@@ -1,0 +1,24 @@
+{
+  "name": "image-lazy-load",
+  "version": "1.0.0",
+  "description": "A lightweight JavaScript library for lazy loading images and background images.",
+  "main": "dist/lazyLoadImages.bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akshaymrajput/image-lazy-load.git"
+  },
+  "keywords": [
+    "lazy",
+    "loading",
+    "images",
+    "lazy load"
+  ],
+  "author": "ga7axy",
+  "license": "MIT",
+  "dependencies": {
+    "intersection-observer": "^0.12.0"
+  }
+}
